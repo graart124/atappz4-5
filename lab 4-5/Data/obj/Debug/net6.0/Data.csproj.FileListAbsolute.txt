@@ -1,0 +1,14 @@
+D:\2 курс 2 сем\атаппз\лаб 4-5\lab 4-5\Data\bin\Debug\net6.0\Data.deps.json
+D:\2 курс 2 сем\атаппз\лаб 4-5\lab 4-5\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+D:\2 курс 2 сем\атаппз\лаб 4-5\lab 4-5\Data\bin\Debug\net6.0\Data.dll
+D:\2 курс 2 сем\атаппз\лаб 4-5\lab 4-5\Data\bin\Debug\net6.0\Data.pdb
+D:\2 курс 2 сем\атаппз\лаб 4-5\lab 4-5\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+D:\2 курс 2 сем\атаппз\лаб 4-5\lab 4-5\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 курс 2 сем\атаппз\лаб 4-5\lab 4-5\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+D:\2 курс 2 сем\атаппз\лаб 4-5\lab 4-5\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+D:\2 курс 2 сем\атаппз\лаб 4-5\lab 4-5\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+D:\2 курс 2 сем\атаппз\лаб 4-5\lab 4-5\Data\obj\Debug\net6.0\Data.dll
+D:\2 курс 2 сем\атаппз\лаб 4-5\lab 4-5\Data\obj\Debug\net6.0\refint\Data.dll
+D:\2 курс 2 сем\атаппз\лаб 4-5\lab 4-5\Data\obj\Debug\net6.0\Data.pdb
+D:\2 курс 2 сем\атаппз\лаб 4-5\lab 4-5\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+D:\2 курс 2 сем\атаппз\лаб 4-5\lab 4-5\Data\obj\Debug\net6.0\ref\Data.dll
