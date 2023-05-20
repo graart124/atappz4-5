@@ -70,6 +70,8 @@ namespace Domain
         {
             if (Status == RoomStatus.Free) throw new Exception("Room is not reserved/booked");
             Status = RoomStatus.Free;
+            StartReservDate = null;
+            EndReservDate = null;
         }
     }
 }
